@@ -1,6 +1,6 @@
 # Automatic hierarchy expansion for structure and chord evaluation
 Associated code for *Automatic hierarchy expansion for improved structure and chord evaluation*
-submitted to TISMIR in 2020. Currently under review. 
+submitted to TISMIR in 2020. Accepted 2021.
 
 This code extends [*Improving structure evaluation through automatic hierarchy expansion*](https://brianmcfee.net/papers/ismir2019expansion.pdf) (ISMIR 2019)
 
